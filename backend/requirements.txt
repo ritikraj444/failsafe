@@ -5,3 +5,5 @@ pandas
 numpy
 scikit-learn
 python-multipart
+passlib
+python-jose
